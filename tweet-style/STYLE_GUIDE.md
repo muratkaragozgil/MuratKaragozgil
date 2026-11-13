@@ -149,6 +149,7 @@ Son 20 tweetine bakarak:
 5. **İlk satır tek başına okunduğunda merak uyandırmalı.**
 6. **Ürün adı geçiyorsa hikayenin içinde geçer,** satış cümlesi kurmam.
    - **Başkalarının tweetlerine atılan reply'larda ürün adı hiç geçmez.** Ürün yalnızca kendi tweetlerinde ya da konu zaten sen veya ürünün olduğunda geçer.
+   - **İstisna:** Biri doğrudan senin kategorindeki araçları soruyorsa ürün en sonda, "Full disclosure" notuyla geçebilir. Önce tarafsız bir cevap verilir.
 7. **Siyasi ve kutuplaştırıcı konulara** sen açıkça istemedikçe girmem.
 8. **Varsayılan tür tespit:** gözlem, fikir, rakamlı analiz ya da espri. Ürün tweetini sadece sen istediğinde yazarım, o zaman da hikaye, rakam ya da espri içinde.
 
