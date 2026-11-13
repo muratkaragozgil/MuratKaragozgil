@@ -145,3 +145,48 @@ Son 20 tweetine bakarak:
 5. **İlk satır tek başına okunduğunda merak uyandırmalı.**
 6. **Ürün adı geçiyorsa hikayenin içinde geçer,** satış cümlesi kurmam.
 7. **Siyasi ve kutuplaştırıcı konulara** sen açıkça istemedikçe girmem.
+
+---
+
+## 7. Reply stratejisi: nereye reply atıyorlar
+
+Her hesabın son 20 reply'ının ana tweetlerine bakıldı (13 Kasım 2026).
+
+| | Kendi tweetinin altında | Başkasının tweetinde |
+|---|---|---|
+| levelsio | 9 (1 reply'ın ana tweeti silinmiş) | 10 reply, 6 farklı thread |
+| marclou | 14 | 6 |
+
+**Kendi tweetlerinin altında:** Gelen soruları tek tek cevaplıyorlar (hackathon kuralları, Interior AI özellikleri). Kısa, bilgi veren, sıcak cevaplar. marclou'nun en çok beğenilen reply'ı kendi viral tweetinin altına yazdığı uzun bir devam metni (182 beğeni, 33K görüntülenme).
+
+**Başkalarının tweetlerinde:**
+- **Hesap büyüklüğü:** Reply attıkları hesapların neredeyse hepsi 600 ile 15K takipçi arasında. Tek istisna 132K takipçili @catalinmpit. Orada marclou kendisi hakkındaki bir iddiaya bağlam ekliyor.
+- **levelsio kendi deneyimi olan konulara giriyor:**
+  - Hollanda ekonomisi: Hollandaca tek satır, 104 beğeni.
+  - Lizbon'daki bir restoran: içeriden bilgiyle espri, 44 beğeni.
+  - Hava temizleyici: kendi cihazının fotoğrafıyla tavsiye.
+  - Bir prototip: `Very cool`.
+- **marclou kendisinden ya da ürünlerinden bahsedenlere cevap veriyor:**
+  - Hackathon katılımcısı: `Hoy hoy`.
+  - Övgü tweeti: ortak anıyla teşekkür.
+  - TrustMRR destek şikayeti: `pushing a fix!`
+  - Eleştiri: sakin bir bağlam açıklaması.
+  - Arkadaşının başarısı: Typefully'nin satışını kutluyor.
+- **En çok tutan dış reply:** içeriden bilgiye dayanan, tek satırlık bir espri.
+
+**AI reply uyarısı:** levelsio AI reply'lardan nefret ediyor.
+- Bir thread'de `AI bot you just replied to fyi` diye yazmış.
+- `X should have a zero tolerance policy for AI replies` tweeti 4.8K beğeni almış.
+- Reply'lar kısa, spesifik ve kişisel deneyime dayalı olmalı. `Great insight! 🚀` gibi genel cümleler yasak.
+
+**@mrtkrgzgl için uyarlama (1.1K takipçi):**
+1. Kendi tweetlerine gelen her yoruma cevap ver.
+2. Dış reply'ları nişindeki 1K ile 20K takipçili hesaplara at. Çok büyük hesaplara sadece ilk dakikalarda ve gerçekten özgün bir şey varsa yaz.
+3. Sadece gerçek deneyimin olan konulara gir:
+   - Sosyal medya planlama: Ravenpost, Postiz, Typefully, Buffer.
+   - Kripto trading verisi: TraderSpy.
+   - Futbol verisi: FootVal.
+   - Claude Code ve MCP.
+   - İstanbul, Türkiye; kışın sıcak bir yerden çalışmak.
+4. Nişindeki satışları ve milestone'ları kutla.
+5. Seni ya da ürünlerini anan herkese cevap ver, destek sorularına da açık açık.
