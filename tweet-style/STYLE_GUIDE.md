@@ -30,6 +30,10 @@ Ham örnekler `data/samples.json` dosyasında. Retweetler alınmadı. Tweetler i
    - `Voice and text messages are async` / `Calls are sync and destroy my day` (1.9K)
 9. **İşi ve hayatı karıştırırlar.** Kahve makinesi, PS5, WoW, spor salonu, evlilik, uyku. İnsanlar ürünü değil kişiyi takip ediyor.
 10. **Çok reply atarlar, kısa ve sıcak tutarlar.** Gün içinde onlarca reply var. Reply büyümenin yarısı.
+11. **Çoğunluk tespit, reklam değil.**
+    - levelsio: 40 tweetin 8'i kendi işiyle ilgili. En çok beğenilen 20 tweetinden sadece biri öyle (masraf dökümü).
+    - marclou: 35 tweetin yaklaşık üçte birinde ürün geçiyor, ama hep bir hikaye, rakam ya da espri içinde. "Şunu kullanın" diyen tek bir tweet yok.
+    - İkisinde de en çok beğenilenler tespitler: `never been this easy ... never this hard`, `the end of UI for SaaS`, Apple eleştirisi, `X should have a zero tolerance policy for AI replies`.
 
 ---
 
@@ -144,7 +148,9 @@ Son 20 tweetine bakarak:
 4. **Hashtag yok.** Link sadece istersen ve tercihen ilk reply'da.
 5. **İlk satır tek başına okunduğunda merak uyandırmalı.**
 6. **Ürün adı geçiyorsa hikayenin içinde geçer,** satış cümlesi kurmam.
+   - **Başkalarının tweetlerine atılan reply'larda ürün adı hiç geçmez.** Ürün yalnızca kendi tweetlerinde ya da konu zaten sen veya ürünün olduğunda geçer.
 7. **Siyasi ve kutuplaştırıcı konulara** sen açıkça istemedikçe girmem.
+8. **Varsayılan tür tespit:** gözlem, fikir, rakamlı analiz ya da espri. Ürün tweetini sadece sen istediğinde yazarım, o zaman da hikaye, rakam ya da espri içinde.
 
 ---
 
@@ -173,6 +179,8 @@ Her hesabın son 20 reply'ının ana tweetlerine bakıldı (13 Kasım 2026).
   - Eleştiri: sakin bir bağlam açıklaması.
   - Arkadaşının başarısı: Typefully'nin satışını kutluyor.
 - **En çok tutan dış reply:** içeriden bilgiye dayanan, tek satırlık bir espri.
+- **Dış reply'larda ürün neredeyse hiç geçmiyor:** 16 reply'ın sadece 2'sinde ürün adı var. İkisinde de konu zaten kendileriydi: biri eleştiriye cevap, diğeri sohbetin içinde anlatılan bir anı.
+  - Reply'ın işi ilginç olmak. Profiline tıklayan, ürünleri bio'da ve kendi tweetlerinde görür.
 
 **AI reply uyarısı:** levelsio AI reply'lardan nefret ediyor.
 - Bir thread'de `AI bot you just replied to fyi` diye yazmış.
@@ -182,7 +190,7 @@ Her hesabın son 20 reply'ının ana tweetlerine bakıldı (13 Kasım 2026).
 **@mrtkrgzgl için uyarlama (1.1K takipçi):**
 1. Kendi tweetlerine gelen her yoruma cevap ver.
 2. Dış reply'ları nişindeki 1K ile 20K takipçili hesaplara at. Çok büyük hesaplara sadece ilk dakikalarda ve gerçekten özgün bir şey varsa yaz.
-3. Sadece gerçek deneyimin olan konulara gir:
+3. Sadece gerçek deneyimin olan konulara gir. Ürün adını değil, deneyimini paylaş:
    - Sosyal medya planlama: Ravenpost, Postiz, Typefully, Buffer.
    - Kripto trading verisi: TraderSpy.
    - Futbol verisi: FootVal.
