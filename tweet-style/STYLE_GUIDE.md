@@ -199,3 +199,12 @@ Her hesabın son 20 reply'ının ana tweetlerine bakıldı (13 Kasım 2026).
    - İstanbul, Türkiye; kışın sıcak bir yerden çalışmak.
 4. Nişindeki satışları ve milestone'ları kutla.
 5. Seni ya da ürünlerini anan herkese cevap ver, destek sorularına da açık açık.
+
+---
+
+## 8. Çalışma şekli
+
+1. **Murat yazar:** Bahsetmek istediklerini ya da aklından geçenleri Türkçe, dağınık da olsa yazar.
+2. **Claude formatlar:** Sadece Murat'ın söylediklerini kullanır. Kendi fikrini, rakamını ya da detayını eklemez. Eksik bilgi için `[X]` bırakır ya da sorar.
+3. **Format:** Bu rehberdeki kurallar geçerli. İlk satır kanca, her satırda tek cümle, aralarda boş satır, hashtag yok. Varsayılan dil İngilizce.
+4. **Ton:** Konuya uyan tonda (levelsio ya da marclou) tek bir versiyon. İki ton da olabilecekse bir alternatif.
